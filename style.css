@@ -1,0 +1,42 @@
+.form{
+    width: fit-content;
+    padding: 1em;
+    background-color: aliceblue;
+    margin-left: 20%;
+}
+h3{
+    text-align: center;
+    font-size: x-large;
+    color: blue;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+label{
+    margin-right: 1em;
+    
+}
+hr{
+    border: none;
+}
+h4{
+    margin-bottom: -.01em;
+}
+input{
+    padding: .5em;
+    border: 1px solid gray;
+}
+.button{
+    padding: 1em;
+    display: block;
+    border-radius: 5px;
+    margin: 2em 0 1em 1em;
+    background-color: green;
+    color: white;
+}
+
+.button:hover{
+    cursor: pointer;
+    background-color: white;
+    border: 2px solid green;
+    color: green;
+}
